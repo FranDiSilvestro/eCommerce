@@ -1,0 +1,1 @@
+Building a amazon like website to sharpen my frontend skills :).
