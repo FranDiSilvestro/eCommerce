@@ -6,7 +6,7 @@ import ShoppingBasketIcon from '@mui/icons-material/ShoppingBasket';
 function Header() {
     return (
         <div className="header">
-            <img className="header__logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1920px-Amazon_logo.svg.png" alt="Website Logo" />
+            <img className="header__logo" src="https://images.squarespace-cdn.com/content/v1/53441df2e4b00c883f89267c/1535058224559-2LFPHY3FJI9PC0HOA8WZ/Hack-Logo.png" alt="Website Logo" />
             <div className="header__search">
                 <input className="header__searchInput" type="text" />
                 <SearchIcon className="header__searchIcon" />
