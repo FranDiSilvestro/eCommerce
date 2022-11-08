@@ -39,7 +39,7 @@
     justify-content: space-evenly;
 }
 
-.header__option {
+.header__option{
     display: flex;
     flex-direction: column;
     margin-left: 10px;
@@ -54,6 +54,11 @@
 .header__optionLine2{
     font-size: 13px;
     font-weight: 800;
+}
+
+.header__link {
+    display: flex;
+    text-decoration: none;
 }
 
 .header__optionBasket {
